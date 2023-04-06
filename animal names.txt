@@ -1,0 +1,10 @@
+animal-tiger
+animal-lion
+anima-elephant
+animal-kangroo
+animal-cat
+animal-dog
+animal-cow
+animal-goat
+animal-camel
+animal-fox
